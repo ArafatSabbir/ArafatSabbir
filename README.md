@@ -19,6 +19,8 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 - ⚗️ <b>Experimenting on:</b> Web App, Web Api, Data Science
 - 💬 <b>Ask me about:</b> Python, ASP.Net Core
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatSabbir&layout=compact)
+
 ### My Stacks
 
 ```json
