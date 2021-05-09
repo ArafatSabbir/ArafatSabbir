@@ -13,22 +13,21 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> ASP.Net Core
-- 🌱 <b>Getting better at:</b> C#, Python, Java
+- 🔭 <b>Currently working on:</b> ASP.Net Core, Android 
+- 🌱 <b>Getting better at:</b> C#, Java, JavaScript
 - 🤔 <b>Exploring:</b> Web Architechtures
 - ⚗️ <b>Experimenting on:</b> Web App, Web Api, Data Science
-- 💬 <b>Ask me about:</b> Python, ASP.Net Core
+- 💬 <b>Ask me about:</b> ASP.Net Core , Android
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatSabbir&layout=compact)
 
 ### My Stacks
 
 ```json
 {
-  "languages": ["C#", "Python", "SQL", "Java", "Javascript"],
+  "languages": ["C#", "SQL", "Java", "Javascript", "Python"],
   "frameworks/libraries": {
-    "backend": ["ASP.Net", "Android", "Tensorflow 2.0"],
-    "frontend": ["Angular.js"],
+    "backend": ["ASP.Net", "Android", "Tensorflow 2"],
+    "frontend": ["Angular"],
     "others": ["NumPy", "Pandas", "Matplotlib"]
   },
   "database": ["MSSQL", "SQLite", "MySQL"],
