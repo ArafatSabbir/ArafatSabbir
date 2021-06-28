@@ -16,7 +16,7 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 - 🔭 <b>Currently working on:</b> ASP.Net Core, Android 
 - 🌱 <b>Getting better at:</b> C#, Java, JavaScript
 - 🤔 <b>Exploring:</b> Web Architechtures
-- ⚗️ <b>Experimenting on:</b> Web App, Web Api, Data Science
+- ⚗️ <b>Experimenting on:</b> Web App, Web Api
 - 💬 <b>Ask me about:</b> ASP.Net Core , Android
 
 
@@ -24,11 +24,11 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 
 ```json
 {
-  "languages": ["C#", "SQL", "Java", "Javascript", "Python"],
+  "languages": ["C#", "SQL", "Java", "Javascript"],
   "frameworks/libraries": {
-    "backend": ["ASP.Net", "Android", "Tensorflow 2"],
-    "frontend": ["Angular"],
-    "others": ["NumPy", "Pandas", "Matplotlib"]
+    "backend": ["ASP.Net", "Android"],
+    "frontend": ["Ract"],
+    "others": ["BootStrap 4", "Ajax", "RestAPI"]
   },
   "database": ["MSSQL", "SQLite", "MySQL"],
   "misc": ["Docker", "Firebase"],
