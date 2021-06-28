@@ -27,7 +27,7 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
   "languages": ["C#", "SQL", "Java", "Javascript"],
   "frameworks/libraries": {
     "backend": ["ASP.Net", "Android"],
-    "frontend": ["Ract"],
+    "frontend": ["React"],
     "others": ["BootStrap 4", "Ajax", "RestAPI"]
   },
   "database": ["MSSQL", "SQLite", "MySQL"],
