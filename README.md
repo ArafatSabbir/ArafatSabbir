@@ -6,7 +6,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/sabbirahmedcse/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sabbirahmedcse33@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> Full Stack Web Developer (intern) <br/>
+> Full Stack Web Developer <br/>
 > ASP.Net Core | SQL SERVER | React.
 
 I love to develop web applications with ASP.NEt Core. Completed Computer Science and Engineering degree from Comilla University. Outside study or work, I love contributing to open-source, learning about system designs.
@@ -17,22 +17,22 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 - 🌱 <b>Getting better at:</b> C#, JavaScript
 - 🤔 <b>Exploring:</b> Web Architechtures
 - ⚗️ <b>Experimenting on:</b> Web App, Web Api
-- 💬 <b>Ask me about:</b> ASP.Net Core , Android , React
+- 💬 <b>Ask me about:</b> ASP.Net Core, React
 
 
 ### My Stacks
 
 ```json
 {
-  "languages": ["C#", "SQL", "Java", "Javascript"],
+  "languages": ["C#", "SQL", "Javascript"],
   "frameworks/libraries": {
-    "backend": ["ASP.Net", "Android"],
+    "backend": ["ASP.Net Core"],
     "frontend": ["React"],
     "others": ["BootStrap 4", "Ajax", "RestAPI"]
   },
-  "database": ["MSSQL", "SQLite", "MySQL"],
-  "misc": ["Docker", "Firebase"],
-  "tools": ["Visual Studo", "VS Code", "Android Studio"]
+  "database": ["MSSQL", "MySQL"],
+  "misc": ["Git", "Firebase"],
+  "tools": ["Visual Studo", "VS Code"]
 }
 ```
 
