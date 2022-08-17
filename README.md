@@ -36,4 +36,6 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
 }
 ```
 
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ArafatSabbir&repo=ArafatSabbir&countColor=%237B1E7A)
+
 #### Happy coding!
