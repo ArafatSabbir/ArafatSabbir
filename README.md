@@ -8,7 +8,7 @@
 > Full Stack Web Developer <br/>
 > ASP.Net Core | SQL SERVER | React.
 
-I love to develop web applications with ASP.NEt Core. Completed Computer Science and Engineering degree from Comilla University. Outside study or work, I love contributing to open-source, learning about system designs.
+I love to develop web applications with ASP.NET Core. Completed Computer Science and Engineering degree from Comilla University. Outside study or work, I love contributing to open-source, learning about system designs.
 
 ### Things you should know
 
@@ -24,10 +24,10 @@ I love to develop web applications with ASP.NEt Core. Completed Computer Science
   "languages": ["C#", "SQL", "Javacript", "Typescript"],
   "frameworks/libraries": {
     "backend": ["ASP.Net Core"],
-    "frontend": ["React"],
+    "frontend": ["ReactJs"],
     "others": ["BootStrap 4", "RestAPI"]
   },
-  "database": ["MSSQL", "MySQL", "Firebase"],
+  "database": ["MS SQL Server", "MySQL", "Firebase"],
   "misc": ["Git"],
   "tools": ["Visual Studo", "VS Code"]
 }
