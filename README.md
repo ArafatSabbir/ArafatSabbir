@@ -1,35 +1,34 @@
 # Hello, I am Sabbir! Nice to meet you.
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=ArafatSabbir&&show_icons=true&theme=tokyonight&count_private=true" alt="ArafatSabbir's Github Stats"/>](https://github.com/ArafatSabbir)
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=222244&labelColor=000000&logo=twitter&logoColor=f5f7fe&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DSabbir&suffix=%20Followers)](https://twitter.com/ArafatSabbir)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/sabbirahmedcse/)
-[![LeetCode Visit](https://img.shields.io/badge/%20-Visit-black?color=222244&labelColor=000000&logo=leetcode&logoColor=f5f7fe)](https://leetcode.com/ArafatSabbir/)
+[![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/sabbirahmedcse/)
+[![LeetCode](https://img.shields.io/badge/%20-Visit-black?color=222244&labelColor=000000&logo=leetcode&logoColor=f5f7fe)](https://leetcode.com/ArafatSabbir/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sabbirahmedcse33@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 > Full Stack Web Developer <br/>
-> ASP.Net Core | SQL SERVER | React.
+> .Net Core | ReactJs | SQL SERVER
 
-I love to develop web applications with ASP.NET Core. Completed Computer Science and Engineering degree from Comilla University. Outside study or work, I love contributing to open-source, learning about system designs.
+I am deeply enthusiastic about designing and developing exceptional web applications utilizing the advanced capabilities of .NET Core. Beyond my professional pursuits, I take great pleasure in actively engaging with the open-source community and continuously expanding my understanding of cutting-edge system designs.
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> ASP.Net Core, React
+- 🔭 <b>Currently working on:</b> .Net Core, ReactJs
 - 🌱 <b>Getting better at:</b> C#, TypeScript
 - 🤔 <b>Exploring:</b> Web Architechtures
 - ⚗️ <b>Experimenting on:</b> Web App, Web Api
-- 💬 <b>Ask me about:</b> ASP.Net Core, React
+- 💬 <b>Ask me about:</b> .Net Core, ReactJs, SQL
 
 ### My Stacks
 ```json
 {
-  "languages": ["C#", "SQL", "Javacript", "Typescript"],
+  "languages": ["C#", "SQL", "Javascript", "Typescript"],
   "frameworks/libraries": {
-    "backend": ["ASP.Net Core"],
+    "backend": [".Net Core"],
     "frontend": ["ReactJs"],
-    "others": ["BootStrap 4", "RestAPI"]
+    "others": ["Bootstrap"]
   },
-  "database": ["MS SQL Server", "MySQL", "Firebase"],
-  "misc": ["Git"],
-  "tools": ["Visual Studo", "VS Code"]
+  "database": ["MS SQL Server", "MySQL", "MongoDB"],
+  "misc": ["Git", "RestAPI", "gRPC", "CI/CD", "Docker"],
+  "tools": ["Visual Studio", "VS Code", "Postman"]
 }
 ```
 #### Happy coding!
