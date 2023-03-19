@@ -14,13 +14,13 @@ I am deeply enthusiastic about designing and developing exceptional web applicat
 <!-- LeetCode Stats Card -->
 <!--![](https://leetcard.jacoblin.cool/ArafatSabbir?ext=heatmap)-->
 
-### Things you should know
+<!-- ### Things you should know
 
 - 🔭 <b>Currently working on:</b> .Net Core, ReactJs
 - 🌱 <b>Getting better at:</b> C#, TypeScript
 - 🤔 <b>Exploring:</b> Web Architechtures
 - ⚗️ <b>Experimenting on:</b> Web App, Web Api
-- 💬 <b>Ask me about:</b> .Net Core, ReactJs, SQL
+- 💬 <b>Ask me about:</b> .Net Core, ReactJs, SQL -->
 
 ### My Stacks
 ```json
