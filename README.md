@@ -32,7 +32,7 @@ I am deeply enthusiastic about designing and developing exceptional web applicat
     "others": ["Bootstrap"]
   },
   "database": ["MS SQL Server", "MySQL", "MongoDB"],
-  "misc": ["Git", "RestAPI", "gRPC", "CI/CD", "Docker"],
+  "misc": ["Git", "RestAPI", "gRPC", Ocelot, "Docker"],
   "tools": ["Visual Studio", "VS Code", "Postman"]
 }
 ```
