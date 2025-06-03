@@ -6,7 +6,7 @@ Check out my portfolio at [Sabbir Ahmed Portfolio](https://arafatsabbir.github.i
 
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/sabbirahmedcse/)
 [![LeetCode](https://img.shields.io/badge/%20-Visit-black?color=222244&labelColor=000000&logo=leetcode&logoColor=f5f7fe)](https://leetcode.com/ArafatSabbir/)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sabbirahmedcse@outlook.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:sabbirahmedcse.bd@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 > Full Stack Web Developer <br/>
 > .Net Core | .Net 6 | SQL SERVER | MySQL | MongoDB | ReactJs | Angular
 
@@ -29,16 +29,17 @@ I am deeply enthusiastic about designing and developing exceptional web applicat
 ### My Stacks
 ```json
 {
-  "languages": ["C#", "Java", "SQL", "Javascript", "Typescript"],
+  "languages": ["C#", "Java", "Javascript", "Typescript"],
   "frameworks/libraries": {
-    "backend": [".Net Core, .Net 6"],
+    "backend": [".Net", "Spring Boot"],
     "frontend": ["ReactJs", "Angular"],
     "others": ["Bootstrap"]
   },
-  "database": ["MS SQL Server", "MySQL", "MongoDB"],
-  "devops": ["Azure", "Git", "Docker", "Jira"],
+  "database": ["SQL Server", "Oracle", "MySQL", "MongoDB", "CosmosDB"],
+  "cloud": ["AWS", "Azure"],
+  "devops": ["Git", "Docker", "Jira"],
   "misc": [ "RestAPI", "gRPC", "Ocelot", "RabbitMQ"],
-  "tools": ["Visual Studio", "VS Code", "Postman"]
+  "tools": ["Visual Studio", "VS Code", "IntelliJ"]
 }
 ```
 #### Happy coding!
